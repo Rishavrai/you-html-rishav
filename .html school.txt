@@ -1,0 +1,16 @@
+<html>
+<body>
+<FORM NAME="FORMI" ENCTYPE="PLAIN/TEXT">
+
+<P>This is the first button: <INPUT TYPE="BUTTON" VALUE="OPEN"
+
+NAME="BUTTON1">
+
+</P>
+
+<P>This is the second button: <INPUT TYPE="BUTTON" VALUE="CLOSE"
+
+NAME="BUTTON2"></P>
+</form>
+</body>
+</html>
